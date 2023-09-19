@@ -25,17 +25,20 @@ You can also access this data via API:
 
 ```
 curl https://pg-essays.fly.dev/api/essays
-
 curl https://pg-essays.fly.dev/api/essays/greatwork
 ```
 
 ## Deploy to Fly
 
-Host the Express API yourself on [fly.io](https://fly.io)
+Host the Express API yourself on [fly.io](https://fly.io):
 
 ```bash
+# Install fly cli
 brew install flyctl
+# Set up Docker image
 fly launch
+# Deploy app
 fly deploy
+# Open app in browser
 fly open
 ```
