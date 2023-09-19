@@ -30,7 +30,7 @@ curl https://pg-essays.fly.dev/api/essays/greatwork
 
 ## Deploy to Fly
 
-Host the Express API yourself on [fly.io](https://fly.io):
+Host the Express API yourself on [fly.io](https://fly.io) for free:
 
 ```bash
 # Install fly cli
