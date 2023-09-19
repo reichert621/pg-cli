@@ -16,6 +16,12 @@ Read an essay by slug:
 npx pg-essays read greatwork
 ```
 
+Read a random popular essay:
+
+```
+npx pg-essays read random
+```
+
 ## API
 
 You can also access this data via API:
