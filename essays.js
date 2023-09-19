@@ -8,7 +8,6 @@ const parser = new Parser();
 // http://www.solipsys.co.uk/new/PaulGrahamEssaysRanking.html
 const slugs = [
   "avg",
-  "lwba",
   "say",
   "icad",
   "rootsoflisp",
