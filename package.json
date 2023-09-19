@@ -23,6 +23,7 @@
     "yargs": "^17.7.2"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.10",
     "nodemon": "^3.0.1"
   }
 }
